@@ -1,8 +1,12 @@
-# React + Vite
+# <img src="/public/icon.png" style="width: 45px;"></img> Rei do Bilhete 
+### Faça seus bilhetes de aposta fantasiosos de maneira fácil!
+O Rei do Bilhete se trata de uma aplicação web que utiliza React.js em sua construção.<br>
+Nele, o usuário pode criar simulações de bilhete de apostas como os frequentemente vistos em casa de apostas.<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O intuito do projeto gira em torno da brincadeira entre grupos de futebol, onde podemos fazer "apostas" com cunho humorístico, provocando os parceiros de times com apostas baseadas em 
+situações comuns nos jogos de futebol.<br>
 
-Currently, two official plugins are available:
+<img src="https://i.ibb.co/dWkSNqs/demo.png" style="width: 500px"></img>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ O deploy deste projeto foi feito na Vercel. Caso deseje vê-lo mais a fundo, acesse-o por aqui:<br>
+> https://rei-do-bilhete-a526u3m68-mateus-ca13s-projects.vercel.app/
